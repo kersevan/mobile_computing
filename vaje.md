@@ -79,3 +79,12 @@ PERMISSIONS:
 - to use certain API functionalities that need permission from the user
 - class Manifest.permission
 - after marshmallow (6.0) 'dangerous' permissions should be obtained at runtime
+
+## VAJE 4 26.10.2020
+QR CODE:
+- QR CODE gradle scripts (buildgradle): repositories from jcenter, google
+- QR CODE pazi katero verzijo jave uporabljaš
+- lambda functions from java 1.8 (Java 8) (Project Structure -> Depencencies)
+
+bitmap image should have the java class Bitmap?
+
